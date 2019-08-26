@@ -1,19 +1,16 @@
 ## Background
-The average Amaerican moves about eleven times in their lifetime. This brings us to the question: Do people move until they find a place to
-settle down where they truly feel happy, or do our wants and needs change over time, prompting us to eventually leave a town we once called
-home for a new area that will bring us satisfaction? Or, do we too often move to a new area without knowing exactly what we're getting
-into, forcing us to turn tail and run at the first sign of discomfort?  
-  
-To minimize the chances of this happening, we should always do proper research when planning our next move in life. Consider the following
-factors when picking a new place to live so you don'tend up wasting your valuable time and money making a move you'll end up regretting.
-Safety is a top concern when moving to a new area. If you don't feel safe in your own home, you're not going to be able to enjoy living
-there.
+The City of New York, is the most populous city in the United States. It is diverse and is the financial capital of USA. It is multicultural. It provides lot of business oppourtunities and business friendly environment. It has attracted many different players into the market. It is a global hub of business and commerce. The city is a major center for banking and finance, retailing, world trade, transportation, tourism, real estate, new media, traditional media, advertising, legal services, accountancy, insurance, theater, fashion, and the arts in the United States. This also means that the market is highly competitive. As it is highly developed city so cost of doing business is also one of the highest. Thus, any new business venture or expansion needs to be analysed carefully. The insights derived from analysis will give good understanding of the business environment which help in strategically targeting the market. This will help in reduction of risk. And the Return on Investment will be reasonable.
 
-## Problem
-The crime statistics dataset of London found on Kaggle has crimes in each Boroughs of London from
-2008 to 2016. The year 2016 being the latest we will be considering the data of that year which is
-actually old information as of now. The crime rates in each borough may have changed over time.
-  
-This project aims to select the safest borough in London based on the total crimes, explore the
-neighbourhoods of that borough to find the 10 most common venues in each neighbourhood and finally
-cluster the neighbourhoods using k-mean clustering.
+## Business problem
+The City of New York is famous for its excelllent cuisine. It's food culture includes an array of international cuisines influenced by the city's immigrant history.
+
+Sushi restaurants have become so popular in the United States now it seems that there is one on every corner, not only in major cities but also in smaller cities. Starting a sushi restaurant can be a great business opportunity, but you need to distinguish yourself from others to enjoy long-term success.
+
+## Find a suitable location.
+If you plan a real restaurant that can demand higher prices for fresh fish, delivered daily from Japan, focus on neighborhoods and outlets that already attract a sophisticated Japanese client. If you plan a cheap buffet restaurant, points to the masses looking for affordable high-traffic locations with large shopping centers and other local points of interest. So it is evident that to survive in such competitive market it is very important to startegically plan. Various factors need to be studied inorder to decide on the Location
+
+## Target Audience:
+My Client wants to open his business in Manhattan area, so I only focus on that borough during my analysis. The objective is to locate and recommend to the management which neighborhood of Newyork city will be best choice to start a restaurant. The Management also expects to understand the rationale of the recommendations made.
+
+This would interest anyone who wants to start a new restaurant in Newyork city.
+there.
